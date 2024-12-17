@@ -7,5 +7,6 @@ int main(){
 	cout << "Введите два целых числа: ";
 	cin >> a >> b;
 	cout << "a + b = " << a+b << "\n";
+	cout << "a - b = " << a-b << "\n";
 	return 0;
 }
